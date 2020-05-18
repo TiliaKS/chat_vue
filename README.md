@@ -1,4 +1,4 @@
-# chat
+# Chat with login page on Vue
 
 ## Project setup
 ```
