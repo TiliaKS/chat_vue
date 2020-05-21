@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    Home
+    Home page
     <ElButton type="danger" @click="onClick">Logout</ElButton>
   </div>
 </template>
