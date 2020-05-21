@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    Home page
-    <ElButton type="danger" @click="onClick">Logout</ElButton>
+    Home
+    <ElButton type="danger" @click="onClick">Logout btn</ElButton>
   </div>
 </template>
 
